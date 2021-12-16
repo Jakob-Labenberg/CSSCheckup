@@ -1,0 +1,104 @@
+body {
+    background-color:peachpuff;
+}
+
+.wrapper {
+    border: 20px solid burlywood;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.example-one {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(73, 99, 1);
+}
+
+.example-two {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(73, 99, 1);
+}
+
+.css-class {
+    background-color:rgb(221, 159, 97);
+}
+
+.css-class h1 {
+    font-size: 18px;
+}
+
+.css-class p {
+    font-size: 16px;
+    color: black;
+}
+
+.css-class li {
+    color: rgb(0, 0, 0);
+}
+
+#number-one {
+    color: rgb(135, 158, 4);
+}
+
+#number-two {
+    font-size: 16px;
+}
+
+#number-two {
+    color: saddlebrown;
+}
+
+.first-class {
+    color: rgb(105, 121, 19);
+}
+
+.second-class {
+    font-size: 16px;
+}
+
+.second-class {
+    color:saddlebrown;
+}
+
+
+.margin-experiment-3 {
+    margin: 5px 10px 20px 0;
+    padding: 10px
+}
+
+.padded-container {
+    border: 2px solid rgb(124, 113, 10);
+    margin: 50px;
+    padding: 20px 20px 20px 40px;
+}
+
+#padding-experiment-1 {
+    border: 2px solid rgb(31, 31, 5);
+    margin: 50px;
+    padding: 20px;
+}
+
+#padding-experiment-2 {
+    border: 20px solid rgb(143, 54, 13);
+    margin: 10px;
+    padding: 30px;
+}
+
+#weight {
+    font-weight: bold;
+}
