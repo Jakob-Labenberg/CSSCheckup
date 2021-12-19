@@ -6,6 +6,15 @@ body {
     border: 20px solid burlywood;
 }
 
+.nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 225px;
+    background-color: rgb(119, 121, 7);
+    border: 3px solid rgb(128, 68, 0);
+}
+
 h1 {
     text-align: center;
 }
@@ -101,4 +110,9 @@ h3 {
 
 #weight {
     font-weight: bold;
+}
+
+.background-one {
+    background-image: url(../CSSCheckup/Assets2/20140405114919-campfire-pic.jpg);
+    padding: 30em 1em;
 }
